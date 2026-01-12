@@ -1,15 +1,3 @@
-# blinkit-analysis
+Project Title
 
-Your README will include:
-
-Business problem
-
-Dataset
-
-Questions answered
-
-Key insights
-
-Screenshots of dashboard
-
-Recommendations
+Customer Retention & Revenue Analysis for a Blinkit-style Quick Commerce Platform
